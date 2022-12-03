@@ -1,2 +1,1 @@
-# lafoodcoma
-LA Food Coma Restaurant Review Page
+https://lafoodcoma.com/
