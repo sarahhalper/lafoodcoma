@@ -454,3 +454,24 @@
 		width: auto;
 		background-color: #FFEFD6;
 	}
+
+/* responsive web design */
+
+@media (max-width: 767px){ 
+		{
+
+		padding-top: 0px;
+		
+		}
+
+		.column1 {
+		
+
+		}
+
+		.column2 {
+
+
+
+		}
+	}
